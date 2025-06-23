@@ -20,7 +20,6 @@ Explorez des fractales hypnotiques en temps réel avec **fract-ol** ! Ce projet 
 | **← ↑ → ↓**     | Déplacer la fractale            |
 | **Molette**     | Zoom avant/arrière              |
 | **+ / -**       | Zoom manuel                     |
-| **C**           | Cycle de couleurs aléatoires    |
 | **ESC**         | Quitter                         |
 
 ---
